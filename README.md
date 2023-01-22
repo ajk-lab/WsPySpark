@@ -1,0 +1,2 @@
+# WsPySpark
+Pyspark Workspace
